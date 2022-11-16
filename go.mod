@@ -1,3 +1,3 @@
-module park-billing
+module user-socialmedia
 
 go 1.19
