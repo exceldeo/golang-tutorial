@@ -3,4 +3,5 @@ Tanggal
 go fundamental
 park billing
 
-link youtube : https://youtu.be/600-t-sXEbY
+golang tutorial #1 park billing
+playlist youtube : https://www.youtube.com/playlist?list=PLrqpgc0ToyrpXBA-jNDAU6H3Of1C1ndls
